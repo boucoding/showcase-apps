@@ -36,7 +36,7 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
 
    <br><br>
    
-   <a href='https://github.com/boucoding/showcase-apps/Asiaf'>
+   <a href='https://github.com/boucoding/showcase-apps/tree/main/Bookshelf'>
      <button style="background-color: #1e000c; color: white; padding: 10px 24px; border: none; border-radius: 3px; text-align: center; font-weight: bold;">
      See Screenshots
    </button>
@@ -55,7 +55,7 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
    ✅ Routing
    ✅ Deployed to App Store & Google Play
    <br><br>
-   <a href='https://github.com/boucoding/showcase-apps/Asiaf'>
+   <a href='https://github.com/boucoding/showcase-apps/tree/main/Asiaf'>
      <button style="background-color: #f48823; color: white; padding: 10px 24px; border: none; border-radius: 3px; text-align: center; font-weight: bold;">
      See Screenshots
    </button>
@@ -78,7 +78,7 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
     ✅ Easy Authentication system
 
      <br>
-     <a href='https://github.com/boucoding/showcase-apps/iMeet'>
+     <a href='https://github.com/boucoding/showcase-apps/tree/main/iMeet'>
      <button style="background-color: #ffbd59; color: white; padding: 10px 24px; border: none; border-radius: 3px; text-align: center; font-weight: bold;">
      See Screenshots
    </button>
