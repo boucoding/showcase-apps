@@ -84,7 +84,51 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
    </button>
    </a>
 
-<br>
+    <br>
+4. Joiny - Social media for everyone - 2021 ~ 2024
+
+    <img src='Joiny/Thumbnail.png'>
+    <br><br>
+    <h2>Key features:</h2>
+    ✅ Authentication 
+   ✅ Code Refactoring from +2k lines of error
+   ✅ Google Maps
+   ✅ Realtime data update
+   ✅ Socket.io / Websockets
+   ✅ Redis Cache
+   ✅ Geolocation
+   ✅ Permission Handling
+   ✅ In-App Store
+   ✅ Realtime chats
+   ✅ File Uploading
+   ✅ Dependency Injection
+   ✅ State Management
+   ✅ UI/UX Prototyping
+   ✅ Animations
+   ✅ Restful API
+   ✅ MVC Architecture
+   ✅ Express.js
+   ✅ MongoDB
+   ✅ JWT
+   ✅ Pagination & Lazy Loading
+   ✅ Clean code with documentation
+   ✅ Input Validation & Sanitization
+   ✅ Routing
+   ✅ Rate Limiting 
+   ✅ NPM
+   ✅ Javascript ES6+
+   ✅ Postman
+   ✅ CI/CD
+   ✅ Git/Github
+
+     <br>
+     <a href='https://github.com/boucoding/showcase-apps/tree/main/iMeet'>
+     <button style="background-color: #4B5945; color: white; padding: 10px 24px; border: none; border-radius: 3px; text-align: center; font-weight: bold;">
+     See Screenshots
+   </button>
+   </a>
+
+    <br>
 Please don't hesitate to contact me. I am open to any messages. feel free to reach me at bouprogramming@gmail.com.
 
 Thank you for reading this!
