@@ -130,7 +130,7 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
    ✅ Git/Github
 
      <br>
-     <a href='https://github.com/boucoding/showcase-apps/tree/main/iMeet'>
+     <a href='https://github.com/boucoding/showcase-apps/tree/main/Joiny'>
      <button style="background-color: #4B5945; color: white; padding: 10px 24px; border: none; border-radius: 3px; text-align: center; font-weight: bold;">
      See Screenshots
    </button>
