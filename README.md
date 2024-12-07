@@ -10,6 +10,9 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
 
    <img src='Bookshelf/Thumbnail.png'>
    <h2>Key features:</h2>
+   ✅ Flutter / Dart
+   ✅ Node.js
+   ✅ Firebase
    ✅ Authentication with Google Sign in
    ✅ Localization
    ✅ State Management
@@ -48,7 +51,7 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
    <img src='Asiaf/Thumbnail.png'>
    <h2>Key features:</h2>
    ✅ UI/UX Prototyping
-   ✅ State Management
+   ✅ Flutter / Dart
    ✅ Localization
    ✅ Animations
    ✅ Error handling
@@ -67,6 +70,7 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
     <img src='iMeet/Thumbnail.png'>
     <br><br>
     <h2>Key features:</h2>
+    ✅ Flutter / Dart
     ✅ UI/UX Prototyping
     ✅ State Management
     ✅ Online Video Calling
@@ -90,6 +94,10 @@ As a Full Stack Software Engineer, I build mobile apps, and backend systems. Som
     <img src='Joiny/Thumbnail.png'>
     <br><br>
     <h2>Key features:</h2>
+    ✅ Flutter / Dart
+    ✅ Node.js
+    ✅ Firebase
+    ✅ Google Cloud API
     ✅ Authentication 
    ✅ Code Refactoring from +2k lines of error
    ✅ Google Maps
